@@ -17,5 +17,3 @@ Dataset was split to form the corresponding test and train sets. Model was obser
 The model was trained and predicted the values of car prices of test data
 Mode was evaluated using r_2 square metric.
 The model performed with 84+ percentage of reliability.
-  
-
